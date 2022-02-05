@@ -42,34 +42,308 @@ There are four assessments for this course: one comprehension exercise (due in w
 Grading
 -------
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| Assignment One, Comprehension Exercise | 10% |
-| Assignment Two, Critical Note | 10% |
-| Assignment Three, Short Paper | 40% |
-| Assignment Four, Short Paper | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment One, Comprehension Exercise
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment Two, Critical Note
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment Three, Short Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment Four, Short Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar{{< anchor "Calendar" >}}{{< /anchor >}}
 ------------------------------------------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Section One: Sense and Reference, Names and Descriptions**{{< /td-colspan >}} |||
-| 1 | Frege: On Sense and Nominatum |  |
-| 2 | Russell: On Denoting  {{< br >}}  {{< br >}}Russell: Descriptions |  |
-| 3 | Quine: Two Dogmas of Empiricism |  |
-| 4-5 | Kripke: Naming and Necessity  {{< br >}}  {{< br >}}Putnam: Meaning and Reference | Assignment one due in week #4 |
-| 6 | Strawson: On Referring  {{< br >}}  {{< br >}}Donnellan: Reference and Definite Descriptions  {{< br >}}  {{< br >}}Kripke: Speaker's Reference and Semantic Reference |  |
-| 7 | von Fintel: Would you believe it? The King of France is Back!  {{< br >}}  {{< br >}}Yablo: Non-Catastropic Presupposition Failure  {{< br >}}  {{< br >}}Perry: Problem of the Essential Indexical  {{< br >}}  {{< br >}}Lewis: Attitudes De Dicto and De Se |  |
-| {{< td-colspan 3 >}}**Section Two: Pragmatics**{{< /td-colspan >}} |||
-| 8 | Austin: Performative Utterances  {{< br >}}  {{< br >}}Grice: Logic and Conversation | Assignment two due |
-| 9 | Lewis: Scorekeeping in a Language Game  {{< br >}}  {{< br >}}Langton: Speech Acts and Unspeakable Acts  {{< br >}}  {{< br >}}Langton and West: Scorekeeping in a Pornographic Language Game |  |
-| 10 | Lewis: Languages and Language |  |
-| {{< td-colspan 3 >}}**Section Three: Propositional Attitudes**{{< /td-colspan >}} |||
-| 11 | Frege: On Sense and Nominatum  {{< br >}}  {{< br >}}Davidson: On Saying That |  |
-| 12 | Kripke: A Puzzle About Belief  {{< br >}}  {{< br >}}Salmon: How to Become a Millian Heir | Assignment three due |
-| 13 | Crimmins and Perry: The Prince and the Phone Booth  {{< br >}}  {{< br >}}Saul: Substitution and Simple Sentences |  |
-| {{< td-colspan 3 >}}**Section Four: Truth**{{< /td-colspan >}} |||
-| 14 | Frege: On Sense and Nominatum  {{< br >}}  {{< br >}}Tarski: The Semantic Conception of Truth, and the Foundations of Semantics  {{< br >}}  {{< br >}}Stoljar: The Deflationary Theory of Truth |  |
-| {{< td-colspan 3 >}}**Section Five: Rule Following**{{< /td-colspan >}} |||
-| 15 | Kripke: On Rules and Private Language  {{< br >}}  {{< br >}}Millikan: Truth Rules, Hoverflies, and the Kripke-Wittgenstein Paradox  {{< br >}}  {{< br >}}Holton: Meaning and Rule Following | Assignment four due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section One: Sense and Reference, Names and Descriptions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Frege: On Sense and Nominatum
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Russell: On Denoting  
+  
+Russell: Descriptions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Quine: Two Dogmas of Empiricism
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Kripke: Naming and Necessity  
+  
+Putnam: Meaning and Reference
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment one due in week #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Strawson: On Referring  
+  
+Donnellan: Reference and Definite Descriptions  
+  
+Kripke: Speaker's Reference and Semantic Reference
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+von Fintel: Would you believe it? The King of France is Back!  
+  
+Yablo: Non-Catastropic Presupposition Failure  
+  
+Perry: Problem of the Essential Indexical  
+  
+Lewis: Attitudes De Dicto and De Se
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section Two: Pragmatics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Austin: Performative Utterances  
+  
+Grice: Logic and Conversation
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment two due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis: Scorekeeping in a Language Game  
+  
+Langton: Speech Acts and Unspeakable Acts  
+  
+Langton and West: Scorekeeping in a Pornographic Language Game
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis: Languages and Language
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section Three: Propositional Attitudes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Frege: On Sense and Nominatum  
+  
+Davidson: On Saying That
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Kripke: A Puzzle About Belief  
+  
+Salmon: How to Become a Millian Heir
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment three due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Crimmins and Perry: The Prince and the Phone Booth  
+  
+Saul: Substitution and Simple Sentences
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section Four: Truth**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Frege: On Sense and Nominatum  
+  
+Tarski: The Semantic Conception of Truth, and the Foundations of Semantics  
+  
+Stoljar: The Deflationary Theory of Truth
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section Five: Rule Following**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Kripke: On Rules and Private Language  
+  
+Millikan: Truth Rules, Hoverflies, and the Kripke-Wittgenstein Paradox  
+  
+Holton: Meaning and Rule Following
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment four due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
