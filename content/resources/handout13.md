@@ -4,6 +4,7 @@ description: This resource gives information on conversational and conventional 
   the origins of conventional implicatures, and indicative conditionals.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-251-introduction-to-philosophy-of-language-spring-2005/d9af12ff631e7b4461b974d339c0f709_handout13.pdf
 file_type: application/pdf
+parent_uid: e0e6690f-75b9-739d-5d27-a2a936dab618
 resourcetype: Document
 title: handout13.pdf
 uid: d9af12ff-631e-7b44-61b9-74d339c0f709
